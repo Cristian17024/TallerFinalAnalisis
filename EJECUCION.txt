@@ -1,0 +1,175 @@
+##### CORRIDA 1: Mago + Espada + Veneno + Bendición vs Goblin #####
+Héroe: Aria (base) + Espada + Veneno + Bendición
+ATK: 40 | DEF: 11 | VEL: 17 | HP: 100
+Enemigo: Goblin salvaje (base) | ATK: 12 | DEF: 3 | HP: 60
+=== COMBATE INICIADO ===
+Iniciativa: Aria (VEL 17)
+
+--- TURNO 1 ---
+Aria (base) + Espada + Veneno + Bendición usa AtaqueHechizo sobre Goblin salvaje
+  Daño: 27 | Efecto: hechizo + veneno
+  Goblin salvaje HP: 60 -> 33
+  [veneno] Goblin salvaje sufre 4 de daño continuo (HP 33 -> 29)
+Goblin salvaje (base) usa AtaquePunalada sobre Aria
+  Daño: 1 | Efecto: puñalada
+  Aria HP: 100 -> 99
+
+--- TURNO 2 ---
+Aria (base) + Espada + Veneno + Bendición usa AtaqueHechizo sobre Goblin salvaje
+  Daño: 27 | Efecto: hechizo + veneno
+  Goblin salvaje HP: 29 -> 2
+  [veneno] Goblin salvaje sufre 4 de daño continuo (HP 2 -> 0)
+  Goblin salvaje cae por los efectos continuos.
+
+=== COMBATE FINALIZADO ===
+Ganador: Aria (base) + Espada + Veneno + Bendición (HP restante: 99)
+
+--- BITÁCORA: ESTADÍSTICAS FINALES ---
+Turnos jugados: 2
+Aria: daño directo total=54, ataques=2, críticos=0
+Goblin salvaje: daño directo total=1, ataques=1, críticos=0
+*** VICTORIA: Aria ***
+
+
+##### CORRIDA 2: Guerrero + Armadura + Amuleto de regeneración vs Orco #####
+Héroe: Thorin (base) + Armadura + Amuleto
+ATK: 20 | DEF: 23 | VEL: 8 | HP: 130
+Enemigo: Orco bruto (base) | ATK: 18 | DEF: 8 | HP: 110
+=== COMBATE INICIADO ===
+Iniciativa: Thorin (VEL 8)
+
+--- TURNO 1 ---
+  [amuleto] Thorin regenera 2 HP (130 -> 132)
+Thorin (base) + Armadura + Amuleto usa AtaqueEspada sobre Orco bruto
+  Daño: 32 (¡CRÍTICO!) | Efecto: espadazo
+  Orco bruto HP: 110 -> 78
+Orco bruto (base) usa AtaqueEspada sobre Thorin
+  Daño: 7 | Efecto: espadazo
+  Thorin HP: 132 -> 125
+
+--- TURNO 2 ---
+  [amuleto] Thorin regenera 2 HP (125 -> 127)
+Thorin (base) + Armadura + Amuleto usa AtaqueEspada sobre Orco bruto
+  Daño: 16 | Efecto: espadazo
+  Orco bruto HP: 78 -> 62
+Orco bruto (base) usa AtaqueEspada sobre Thorin
+  Daño: 7 | Efecto: espadazo
+  Thorin HP: 127 -> 120
+
+--- TURNO 3 ---
+  [amuleto] Thorin regenera 2 HP (120 -> 122)
+Thorin (base) + Armadura + Amuleto usa AtaqueEspada sobre Orco bruto
+  Daño: 16 | Efecto: espadazo
+  Orco bruto HP: 62 -> 46
+Orco bruto (base) usa AtaqueEspada sobre Thorin
+  Daño: 7 | Efecto: espadazo
+  Thorin HP: 122 -> 115
+
+--- TURNO 4 ---
+  [amuleto] Thorin regenera 2 HP (115 -> 117)
+Thorin (base) + Armadura + Amuleto usa AtaqueEspada sobre Orco bruto
+  Daño: 32 (¡CRÍTICO!) | Efecto: espadazo
+  Orco bruto HP: 46 -> 14
+Orco bruto (base) usa AtaqueEspada sobre Thorin
+  Daño: 7 | Efecto: espadazo
+  Thorin HP: 117 -> 110
+
+--- TURNO 5 ---
+  [amuleto] Thorin regenera 2 HP (110 -> 112)
+Thorin (base) + Armadura + Amuleto usa AtaqueEspada sobre Orco bruto
+  Daño: 16 | Efecto: espadazo
+  Orco bruto HP: 14 -> 0
+
+=== COMBATE FINALIZADO ===
+Ganador: Thorin (base) + Armadura + Amuleto (HP restante: 112)
+
+--- BITÁCORA: ESTADÍSTICAS FINALES ---
+Turnos jugados: 5
+Thorin: daño directo total=112, ataques=5, críticos=2
+Orco bruto: daño directo total=28, ataques=4, críticos=0
+*** VICTORIA: Thorin ***
+
+
+##### CORRIDA 3: Pícaro + Veneno + Espada + Armadura + Bendición vs Dragón #####
+Héroe: Sombra (base) + Veneno + Espada + Armadura + Bendición
+ATK: 36 | DEF: 16 | VEL: 20 | HP: 95
+Enemigo: Dragón ancestral (base) | ATK: 28 | DEF: 14 | HP: 200
+=== COMBATE INICIADO ===
+Iniciativa: Sombra (VEL 20)
+
+--- TURNO 1 ---
+Sombra (base) + Veneno + Espada + Armadura + Bendición usa AtaquePunalada sobre Dragón ancestral
+  Daño: 6 | Efecto: puñalada + veneno
+  Dragón ancestral HP: 200 -> 194
+  [veneno] Dragón ancestral sufre 4 de daño continuo (HP 194 -> 190)
+Dragón ancestral (base) usa AtaqueHechizo sobre Sombra
+  Daño: 29 | Efecto: hechizo
+  Sombra HP: 95 -> 66
+
+--- TURNO 2 ---
+Sombra (base) + Veneno + Espada + Armadura + Bendición usa AtaquePunalada sobre Dragón ancestral
+  Daño: 12 (¡CRÍTICO!) | Efecto: puñalada + veneno
+  Dragón ancestral HP: 190 -> 178
+  [veneno] Dragón ancestral sufre 4 de daño continuo (HP 178 -> 174)
+Dragón ancestral (base) usa AtaqueHechizo sobre Sombra
+  Daño: 29 | Efecto: hechizo
+  Sombra HP: 66 -> 37
+
+--- TURNO 3 ---
+Sombra (base) + Veneno + Espada + Armadura + Bendición usa AtaquePunalada sobre Dragón ancestral
+  Daño: 12 (¡CRÍTICO!) | Efecto: puñalada + veneno
+  Dragón ancestral HP: 174 -> 162
+  [veneno] Dragón ancestral sufre 4 de daño continuo (HP 162 -> 158)
+Dragón ancestral (base) usa AtaqueHechizo sobre Sombra
+  Daño: 58 (¡CRÍTICO!) | Efecto: hechizo
+  Sombra HP: 37 -> 0
+
+=== COMBATE FINALIZADO ===
+Ganador: Dragón ancestral (base) (HP restante: 158)
+
+--- BITÁCORA: ESTADÍSTICAS FINALES ---
+Turnos jugados: 3
+Sombra: daño directo total=30, ataques=3, críticos=2
+Dragón ancestral: daño directo total=116, ataques=3, críticos=1
+*** VICTORIA: Dragón ancestral ***
+
+
+##### CORRIDA 4: Arquero + Espada + Amuleto vs Goblin #####
+Héroe: Legolo (base) + Espada + Amuleto
+ATK: 28 | DEF: 10 | VEL: 15 | HP: 100
+Enemigo: Goblin salvaje (base) | ATK: 12 | DEF: 3 | HP: 60
+=== COMBATE INICIADO ===
+Iniciativa: Legolo (VEL 15)
+
+--- TURNO 1 ---
+  [amuleto] Legolo regenera 2 HP (100 -> 102)
+Legolo (base) + Espada + Amuleto usa AtaqueFlecha sobre Goblin salvaje
+  Daño: 17 | Efecto: flecha
+  Goblin salvaje HP: 60 -> 43
+Goblin salvaje (base) usa AtaquePunalada sobre Legolo
+  Daño: 2 | Efecto: puñalada
+  Legolo HP: 102 -> 100
+
+--- TURNO 2 ---
+  [amuleto] Legolo regenera 2 HP (100 -> 102)
+Legolo (base) + Espada + Amuleto usa AtaqueFlecha sobre Goblin salvaje
+  Daño: 30 (¡CRÍTICO!) | Efecto: flecha
+  Goblin salvaje HP: 43 -> 13
+Goblin salvaje (base) usa AtaquePunalada sobre Legolo
+  Daño: 2 | Efecto: puñalada
+  Legolo HP: 102 -> 100
+
+--- TURNO 3 ---
+  [amuleto] Legolo regenera 2 HP (100 -> 102)
+Legolo (base) + Espada + Amuleto usa AtaqueFlecha sobre Goblin salvaje
+  Daño: 17 | Efecto: flecha
+  Goblin salvaje HP: 13 -> 0
+
+=== COMBATE FINALIZADO ===
+Ganador: Legolo (base) + Espada + Amuleto (HP restante: 102)
+
+--- BITÁCORA: ESTADÍSTICAS FINALES ---
+Turnos jugados: 3
+Legolo: daño directo total=64, ataques=3, críticos=1
+Goblin salvaje: daño directo total=4, ataques=2, críticos=0
+*** VICTORIA: Legolo ***
